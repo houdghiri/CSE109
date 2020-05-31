@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(void) {
-  printf("Hello World\n");
+  printf("Test for CSE109 class\n");
   return 0;
 }
